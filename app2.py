@@ -1,8 +1,8 @@
 file = open("student_notes.txt", "w")
 
-file.write("This is a sample file.\n")
-file.write("We are learning file handling in Python.\n")
-file.write("This content is written using write() function.\n")
+file.write("First line.\n")
+file.write("Working on tuteDube Assignment.\n")
+file.write("Can write anything will be added in file.\n")
 
 file.close()
 
