@@ -1,4 +1,4 @@
-file = open("student_notes.txt", "r")
+file = open("Tutedube.txt", "r")
 
 content = file.read()
 
